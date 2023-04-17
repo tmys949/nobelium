@@ -60,3 +60,6 @@ const BLOG = {
 }
 // export default BLOG
 module.exports = BLOG
+
+  // 樱花飘落特效
+  SAKURA: process.env.NEXT_PUBLIC_SAKURA || true, // 开关
